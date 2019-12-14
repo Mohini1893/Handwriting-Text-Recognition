@@ -10,7 +10,7 @@ Handwritten Text Recongnition implemented using two initial approaches namely KN
 
 ## Initial Approaches: Approach 2
 
-![CNN](.CNN.png
+![CNN](.CNN.png)
 
 ## References
 
