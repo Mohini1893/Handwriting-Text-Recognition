@@ -6,7 +6,7 @@ Handwritten Text Recongnition implemented using two initial approaches namely KN
 
 ## Initial Approaches: Approach 1
 
-![KNN](/KNN.png)
+![KNN](./Initial Approach 1/KNN.png)
 
 Download some demo files from the IAM dataset and store them in the folder where you store the code for this approach. Run the code for one image at a time to see how each step described in the image is implemented in the code.
 
